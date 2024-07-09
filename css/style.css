@@ -10,6 +10,43 @@ h1 {
 
 }
 
+
+.wrapper {
+  width: 100%;
+}
+
+nav {
+    width: 1440px;
+    margin: 0 auto;
+    height: 150px;
+    background-color: #cfff7d;
+}
+
+nav ul { list-style: none;
+         padding: 0;
+         margin: 0; 
+         display: flex;
+}
+nav ul li {
+   max-width: 120px ;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+
+.wrapper .banner  {
+   width: 1440px;
+   margin: 0 auto;
+   height: 500px;
+   background-color: #ff7272;
+
+}
+
+
+
+
+
+
 .about {
    background-color: #fd8383; 
 } 
+
